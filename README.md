@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jack100atGmail
 - 👀 I’m interested in Powershell
-- 🌱 I’m currently learning Powershell
+- 🌱 I’m currently learning Powershell & github
 -
 - 📫 How to reach me ...
 
